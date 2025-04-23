@@ -8,7 +8,6 @@ import Info from './components/Info';
 import Navbar from './components/Navbar';
 import Navbar2 from './components/Navbar2';
 import State1 from './components/State1';
-import Robiya from './Robiya';
 import Rasm from './asserst/doktor2.5002660e45165c2d241a.png'
 import Rasm1 from './asserst/doktor.png'
 import Rasm2 from './asserst/doktor1.png'
@@ -29,7 +28,6 @@ function App() {
       {/* <Ikkichidars/> */}
       {/* <Dars3 a={a} b={b} c={c} /> */}
       {/* <Info/> */}
-      {/* <Robiya Rasm={Rasm} Rasm1={Rasm1} Rasm2={Rasm2}/> */}
       {/* <ExampleComponent />
        */}
 
