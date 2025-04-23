@@ -24,7 +24,7 @@ function App() {
       {/* <Navbar/>
       <Navbar2/> */}
       {/* <Counter a={a}/> */}
-      {/* <Ikkinchi/> */}
+      <Ikkinchi/>
       {/* <Ikkichidars/> */}
       {/* <Dars3 a={a} b={b} c={c} /> */}
       {/* <Info/> */}
