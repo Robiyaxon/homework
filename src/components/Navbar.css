@@ -1,0 +1,15 @@
+.box{
+background-color: rgb(0, 140, 255);
+height: 50px;
+display: flex;
+justify-content: end;
+align-items: center;
+padding-right: 160px;
+}
+
+.Nvt{
+color: white;
+text-decoration: none ;
+margin-right: 20px;
+}
+
